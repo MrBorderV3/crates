@@ -1,0 +1,8 @@
+name: crates
+version: 1.0.0
+author: MrBorder
+description: Custom crates plugin made by MrBorder
+main: me.border.crates.Main
+commands:
+  crate:
+    aliases: [cc]

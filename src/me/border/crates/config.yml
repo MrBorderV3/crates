@@ -1,0 +1,4 @@
+#Name of the key to open the crates
+key_name: 'key!'
+#Name of the crate
+crate_name: 'Crate!'
